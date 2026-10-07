@@ -1,0 +1,5 @@
+file(SIZE ${BIN} SZ)
+if(SZ GREATER ${MAX})
+    message(FATAL_ERROR "El launcher (${SZ} bytes) invade el sector de config (max ${MAX})")
+endif()
+message(STATUS "Launcher: ${SZ} bytes (max ${MAX})")
