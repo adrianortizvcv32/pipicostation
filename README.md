@@ -22,7 +22,6 @@ El objetivo es construir una pequeña consola capaz de ejecutar diferentes juego
 
 - Raspberry Pi Pico
 - Pantalla TFT
-- Joysticks
 - Botones físicos
 - Altavoces
 - Batería recargable
