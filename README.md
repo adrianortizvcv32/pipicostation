@@ -38,7 +38,6 @@ El sistema puede utilizar diferentes juegos y ports desarrollados específicamen
 
 Algunos de los proyectos incluyen:
 
-- DOOM
 - Minecraft
 - Street Fighter
 - Otros ports y juegos experimentales
@@ -53,7 +52,6 @@ La consola está construida utilizando componentes electrónicos económicos:
 |---|---|
 | Raspberry Pi Pico | Procesador principal |
 | Pantalla TFT | Visualización |
-| Joysticks | Control |
 | Botones | Entrada |
 | Altavoz | Audio |
 | Batería Li-ion | Alimentación |
